@@ -1,0 +1,11 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Validate product listing page,Open product page > Verify products,Products displayed correctly,Products displayed correctly,Passed,Low,,No issues found
+TC002,Test API error handling,Disconnect API > Refresh page,Show fallback UI with error message,Error message shown,Passed,Medium,,Handled gracefully
+TC003,Check cart functionality,Add product to cart > Verify cart contents,Cart updates with added product,Cart updates as expected,Passed,High,,Works as expected
+TC004,Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,Medium,,Test successful
+TC005,Test search bar functionality,Search for a product > Verify results,Search results match the query,Search results displayed correctly,Passed,Low,,No issues found
+TC006,Validate dynamic routing for products,Navigate to a product page > Verify URL and content,Product details match the selected product,Product details displayed correctly,Passed,High,,Routing works as expected
+TC007,Test API integration with Sanity CMS,Fetch product data from Sanity > Display on frontend,Products fetched and displayed correctly,Products displayed as expected,Passed,High,,Integration successful
+TC008,Validate shopping cart API,Add product to cart > Verify API response,API response confirms addition of product,API response and cart updated correctly,Passed,Medium,,API handling works as expected
+TC009,Test checkout page functionality,Proceed to checkout > Verify summary and actions,Checkout process works without errors,Checkout process completed successfully,Passed,High,,Checkout tested successfully
+TC010,Validate marketplace homepage layout,Open homepage > Check layout and components,Homepage components render correctly,Homepage layout displayed correctly,Passed,Low,,Homepage working as expected
