@@ -15,6 +15,7 @@ On the second day, we shifted our focus to technical planning. We finalized the 
 
 This day marked a significant milestone as we successfully integrated #APIs with #Sanity #CMS. We fetched data dynamically and displayed it on the frontend. Special attention was given to securing API keys and endpoints to maintain project integrity and data security.
 
+Day 4: Building Dynamic Frontend Components
 
 
 
